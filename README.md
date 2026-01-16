@@ -30,7 +30,7 @@ on the Titanic dataset to identify patterns and trends.
 - Higher fare passengers had better survival chances
 - Most passengers were aged between 20–40
 
-##Files in this Repository
+## Files in this Repository
 -Titanic_EDA.ipynb :jupyter notebook containing data cleaning and EDA
 -Titanic-Dataset.csv:Dataset used for analysis
 -README.md:Project Documentation 
